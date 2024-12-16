@@ -1,3 +1,17 @@
+"""
+Author: S.T.Sathish (SKYLIB)
+Email: skylib.stsathish@gmail.com
+Website: https://beacons.ai/skylib
+Date Created: 16-December-2024
+Description: Python ChatBot Script
+This Python chatbot script is a straightforward and efficient program designed to answer user questions. 
+If the chatbot encounters a question it cannot answer, it intelligently adapts by saving the question and the corresponding answer to a file. 
+This allows the chatbot to learn and respond accurately when the same question is asked in the future, improving its knowledge base over time.
+
+Program Generated with: ChatGPT (OpenAI)
+
+Copyright (c) [2024] S.T.Sathish (SKYLIB)
+"""
 import csv
 import os
 from fuzzywuzzy import process  # Install with `pip install fuzzywuzzy`

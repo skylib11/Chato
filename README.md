@@ -27,3 +27,15 @@ The next time you ask the same question, the chatbot will recall and provide the
 The chatbot is not given any existing datas. It needs input and learnings from the user. So, when you start, it might not have responses for most of the questions.
 
 This script is perfect for anyone looking for a quick and simple way to create a chatbot that learns and "remembers" user interactions over time, with minimal setup.
+
+**v2.0.0**
+
+Chato: Major Improvements and Refactoring
+
+Added metadata, accessible via Chatbot.py --about
+Ensured PEP8 compliance for better code style
+Implemented error and exception handling
+Added logging for errors and informational messages
+Renamed the project from "ChatBot" to "Chato"
+Optimized performance by accessing the data file from memory for faster access
+

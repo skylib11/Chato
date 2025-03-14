@@ -1,4 +1,4 @@
-## Chatbot Python Script
+## Chatbot Python Script - v2.0.0
 
 This Python chatbot script is a simple yet efficient program that can answer user questions. If the chatbot doesn't know the answer to a question, it learns by saving the question and the corresponding answer to a file, enabling it to recall and respond appropriately when asked the same question in the future.
 
